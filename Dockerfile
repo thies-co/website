@@ -1,3 +1,3 @@
 
-FROM thies-co/website/index.html
+FROM thies-co/website/webapp
 ADD . /var/WWW/html/
